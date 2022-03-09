@@ -1,5 +1,5 @@
 {
-    "packing_list": [
+    "stokis": [
     {
         "id": "10001",
         "alamat":"jl besar kec.kecil",
@@ -140,5 +140,72 @@
 
         }
     }
+],
+    "packing_list": [
+    {
+        "id":"20001",
+        "no_packing_list":"P0001",
+        "tgl_dibuat":"12-01-22",
+        "tgl_dikirim":"12-01-22",
+        "tgl_diterima":"14-01-22",
+        "kardus_besar": {
+            
+        },
+        "kardus_kecil": {
+
+        }
+    },
+    {
+        "id":"20002",
+        "no_packing_list":"P0002",
+        "tgl_dibuat":"12-01-22",
+        "tgl_dikirim":"12-01-22",
+        "tgl_diterima":"14-01-22",
+        "kardus_besar": {
+            
+        },
+        "kardus_kecil": {
+
+        }
+    },
+    {
+        "id":"20003",
+        "no_packing_list":"P0003",
+        "tgl_dibuat":"12-01-22",
+        "tgl_dikirim":"12-01-22",
+        "tgl_diterima":"14-01-22",
+        "kardus_besar": {
+            
+        },
+        "kardus_kecil": {
+
+        }
+    },
+    {
+        "id":"20004",
+        "no_packing_list":"P0004",
+        "tgl_dibuat":"12-01-22",
+        "tgl_dikirim":"12-01-22",
+        "tgl_diterima":"14-01-22",
+        "kardus_besar": {
+            
+        },
+        "kardus_kecil": {
+
+        }
+    },
+    {
+        "id":"20005",
+        "no_packing_list":"P0005",
+        "tgl_dibuat":"12-01-22",
+        "tgl_dikirim":"12-01-22",
+        "tgl_diterima":"14-01-22",
+        "kardus_besar": {
+            
+        },
+        "kardus_kecil": {
+
+        }
+    },
 ]
 }
