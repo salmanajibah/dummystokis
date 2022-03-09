@@ -203,5 +203,47 @@
         "kardus_kecil": {
 
         }
+    }],
+    "konsumen": [{
+        "id":"30001",
+        "alamat":"jl. in aja",
+        "no_tlp":"080808080",
+        "nama":"seli",
+        "stokis":"10001"
+    },
+    {
+        "id":"30002",
+        "alamat":"jl. in aja",
+        "no_tlp":"081818181",
+        "nama":"agus",
+        "stokis":"10001"
+    },
+    {
+        "id":"30003",
+        "alamat":"jl. in aja",
+        "no_tlp":"08282828282",
+        "nama":"fakhri",
+        "stokis":"10002"
+    },
+    {
+        "id":"30004",
+        "alamat":"jl. in aja",
+        "no_tlp":"08383838383",
+        "nama":"adri",
+        "stokis":"10002"
+    },
+    {
+        "id":"30005",
+        "alamat":"jl. in aja",
+        "no_tlp":"08484848484",
+        "nama":"sarah",
+        "stokis":"10003"
+    },
+    {
+        "id":"30006",
+        "alamat":"jl. in aja",
+        "no_tlp":"08585858585",
+        "nama":"seli",
+        "stokis":"10003"
     }]
 }
