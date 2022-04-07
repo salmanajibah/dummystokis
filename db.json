@@ -119,5 +119,26 @@
         "no_tlp":"08585858585",
         "nama":"seli",
         "stokis":"10003"
+    }],
+    "pengiriman": [{
+        "id":"40001",
+        "konsumen":"30001",
+        "stok":{},
+        "tgl_dikirim":"12-01-22",
+        "tgl_diterima":"14-01-22"
+    },
+    {
+        "id":"40002",
+        "konsumen":"30002",
+        "stok":{},
+        "tgl_dikirim":"12-01-22",
+        "tgl_diterima":"14-01-22"
+    },
+    {
+        "id":"40003",
+        "konsumen":"30003",
+        "stok":{},
+        "tgl_dikirim":"12-01-22",
+        "tgl_diterima":"14-01-22"
     }]
 }
